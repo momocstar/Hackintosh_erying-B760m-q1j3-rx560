@@ -12,9 +12,10 @@ CPU: q1j3. 等同i7 1360P
 
 固态：西数SN550 512
 
+无线网卡: BCM94360CS2 
 
 
-> 带解锁CFG LOCK BIOS
+> 带解锁 CFG LOCK BIOS
 
 biosMD5: 7bffec16046d2a3c16e5e9bc91f6ad2e
 
