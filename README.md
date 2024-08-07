@@ -68,11 +68,15 @@ Fpt.efi -F erying827.bin
 bios设置:
 
 Hyperthreading 关闭超线程(关键)
+
 resize  bar 关闭
+
 cfg lock关闭(需要bios解锁选项，GitHub提供刷)
 
 serial port  关闭
+
 quiet boot 关闭
+
 csm开启:  启动项仅uefi 显卡uefi 
 
 
