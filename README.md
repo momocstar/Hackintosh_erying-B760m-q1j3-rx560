@@ -105,4 +105,8 @@ USB: 已定制端口
 
 
 
+声卡：驱动正常
+
+<img src="./image/voice.jpg" alt="CPU" style="zoom:50%;" />
+
 睡眠测试正常
