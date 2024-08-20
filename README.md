@@ -23,6 +23,13 @@ CPU: q1j3. 等同i7 1360P
 
 biosMD5: 7bffec16046d2a3c16e5e9bc91f6ad2e
 
+bios是q1j3主板的，其他主板q1j1/j2/j4，未测试是否通用！！！
+
+bios是q1j3主板的，其他主板q1j1/j2/j4，未测试是否通用！！！
+
+bios是q1j3主板的，其他主板q1j1/j2/j4，未测试是否通用！！！
+
+
 BIOS升级步骤：
 
 1.将U盘格式化成FAT32分区，不要使用MSDOS或其他启动盘
